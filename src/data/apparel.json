@@ -1,0 +1,22 @@
+{
+  "apparels": [
+    {
+      "code": "ABC123",
+      "name": "T-Shirt",
+      "sizes": [
+        { "size": "S", "stockQuality": 50, "price": 29.99 },
+        { "size": "M", "stockQuality": 100, "price": 34.99 },
+        { "size": "L", "stockQuality": 50, "price": 10.55 }
+      ]
+    },
+    {
+      "code": "DEF456",
+      "name": "Jeans",
+      "sizes": [
+        { "size": "S", "stockQuality": 50, "price": 11.99 },
+        { "size": "M", "stockQuality": 40, "price": 54.99 },
+        { "size": "L", "stockQuality": 60, "price": 59.99 }
+      ]
+    }
+  ]
+}
