@@ -1,5 +1,5 @@
 import fs from "fs";
-const filePath = "src/data/apparel.json";
+const filePath = "./apparel.json";
 class ApparelRepository {
     async findOneApparelByCode(code) {
         const { apparels } = await this.readJsonFile();

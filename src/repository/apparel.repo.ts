@@ -1,7 +1,7 @@
 import fs from "fs";
 import { Apparel } from "../interfaces/apparel.interface.js";
 
-const filePath = "src/data/apparel.json";
+const filePath = "./apparel.json";
 
 class ApparelRepository {
   async findOneApparelByCode(code: string) {
