@@ -16,7 +16,7 @@ Follow the instructions below to get the project up and running on your local ma
 1. Clone the repository to your local machine:
 
    ```shell
-   git clone https://github.com/pankajyadav05/fresh-prints-node
+   git clone https://github.com/pankajyadav05/fresh-prints-node.git
    ```
 
 2. Navigate to the project directory:
